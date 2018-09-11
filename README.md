@@ -1,2 +1,2 @@
 # express-example
-learn express.
+Learn NodeJs.
